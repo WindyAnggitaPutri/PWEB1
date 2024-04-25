@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: white;
+    margin: 0px 170px;
+    padding: 2px;
+}
+
+p {
+    color: hotpink;
+    background-color: black;
+    margin: 10px 250px;
+    padding: 4px;
+}
