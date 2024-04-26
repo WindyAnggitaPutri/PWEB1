@@ -1,4 +1,4 @@
-# Praktikum Pemrograman WEB
+![image](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/759a70c6-1f29-4cd5-946e-31ede5fb4221)# Praktikum Pemrograman WEB
 
 ## HTML(Hyper Text Markup Language)<hr>
 1. **Introduction** <br>
@@ -18,13 +18,14 @@ Hyperlink adalah perintah untuk bisa meghubungkan halaman tersebut ke slide, fil
 ![a input](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/7e31f625-391c-446b-b2ef-9b94acafde91)
 ![a output](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/ae26826a-f9c5-429f-a534-24634f7cc3a5)
 5. **Attribute** <br>
-a. href <br>
-href dapat ditemukan di hyperlink, href tersebut diisi tujuan dari link tersebut.
+   a. href <br>
+   href dapat ditemukan di hyperlink, href tersebut diisi tujuan dari link 
+   tersebut.
 ![href inpiut](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/c1f13991-9d82-4e2e-b78d-05c49e87d21f)
 ![href out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/3bac8112-06d3-4e15-92e6-e21512e509c9)
 
-b. src <br>
-src dapat ditemukan di tag img, yang berfungsi untuk memberikan arah dimana lokasi gambar tersebut
+      b. src <br>
+      src dapat ditemukan di tag img, yang berfungsi untuk memberikan arah dimana lokasi gambar tersebut
 ![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/5861c51a-a82c-4759-bb9b-d96f45738155)
 ![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/97b6b1b7-1541-44c8-bd1b-79394463a149)
 
@@ -116,14 +117,20 @@ c. th <br>
 th digunakan untuk membuat header pada table<br>
 d. border <br>
 border digunakan untuk memberikan garis pada tabel<br>
+
+
 14. **List** <br>
-list digunakan untuk membuat list dalam html
+![list](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/671f29ae-0848-4879-b913-9d95e6f6b667)
+![list out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/c30b1318-4bf1-4940-9c80-f172e7dd6fbe)
+
+
+list digunakan untuk membuat list dalam html<br>
 a. ol  <br>
-ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.
+ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.<br>
 b. ul  <br>
-    atau unordered list adalah jenis list yang tidak memiliki urutan.
+    atau unordered list adalah jenis list yang tidak memiliki urutan.<br>
 c. li  <br>
-li adalah tag untuk menampilkan istilah pada list tersebut
+li adalah tag untuk menampilkan istilah pada list tersebut<br>
 
 ## CSS (Cascading Style Sheets) <hr>
 1. **Introduction** <br>
