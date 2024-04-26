@@ -1,4 +1,4 @@
-![image](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/480a4ed8-caf5-43d2-bf46-4856125aa87d)# Praktikum Pemrograman WEB
+# Praktikum Pemrograman WEB
 
 ## HTML(Hyper Text Markup Language)<hr>
 1. **Introduction** <br>
