@@ -92,9 +92,21 @@ sup digunakan untuk memberikan karakter kecil di atas teks
 
 9. **Comments** <br>
 comments diberikan untuk mematika sebuah tag atau perinta, tetapi juga bisa diberikan untuk memberikan catatan di html tanpa muncul di halaman website
-10. **img** <br>
+![command in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/bcc8950d-0fda-43b7-901a-809a71ce4409)
+
+11. **img** <br>
 img adalah sebuah tag yang digunakan untuk memberikan gambar ke dalam html
-11. **Table** <br>
+![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/ee710be8-c499-41b9-a952-e69c2a75735c)
+![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/33489b0d-c1e9-4f4a-b089-3139deac2ae5)
+
+
+
+13. **Table** <br>
+![tab in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/6062b525-2d60-4650-b5c7-4f684c8dbfc4)
+
+![tab ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/12a3d5dd-ec38-488b-bbbe-1e4f14fbeefb)
+
+
 table tersebut memiliki fungsi untuk memberikan tabel ke dalam html.
 beberapa yang terdapa dalam tabel :
 a. tr <br>
@@ -105,7 +117,7 @@ c. th <br>
 th digunakan untuk membuat header pada table
 d. border <br>
 border digunakan untuk memberikan garis pada tabel
-12. **List** <br>
+14. **List** <br>
 list digunakan untuk membuat list dalam html
 a. ol  <br>
 ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.
