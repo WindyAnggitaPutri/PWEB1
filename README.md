@@ -42,6 +42,7 @@ style digunakan jika ingin memberikan css di inline suatu tag
 
 f. lang <br>
 lang digunakan untuk menentukan bahasa apa yang digunakan untuk isi elemen
+![lang](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/781098a4-c5a2-461b-9e86-57da864e25de)
 
 h. class <br>
 class berguna untuk memberikan class CSS yanng akan digunakan
