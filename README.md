@@ -53,9 +53,9 @@ class berguna untuk memberikan class CSS yanng akan digunakan
 
 i. Id <br>
 Id berguna untuk memberikan id CSS yanng akan digunakan
-![id in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/5d7086bd-bf14-4eab-911c-e262![id out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/739bdc45-c63f-4658-951d-e58f8690c1f5)
-a80b6faf)
-![Uploading id out.png…]()
+![id in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/cd00d25a-dbdd-46d9-96d5-855a22c67198)
+![id out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/b8bbbb70-5262-41fe-84e2-41d73ed61c9a)
+
 
 
 
