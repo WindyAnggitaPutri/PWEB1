@@ -20,25 +20,52 @@ Hyperlink adalah perintah untuk bisa meghubungkan halaman tersebut ke slide, fil
 5. **Attribute** <br>
 a. href <br>
 href dapat ditemukan di hyperlink, href tersebut diisi tujuan dari link tersebut.
+![href inpiut](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/c1f13991-9d82-4e2e-b78d-05c49e87d21f)
+![href out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/3bac8112-06d3-4e15-92e6-e21512e509c9)
+
 b. src <br>
 src dapat ditemukan di tag img, yang berfungsi untuk memberikan arah dimana lokasi gambar tersebut
-c. name <br>
-name di elemen img adalah atribut yang dapat digunakan untuk membrikan nama pada gambar tersebut.
+![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/5861c51a-a82c-4759-bb9b-d96f45738155)
+![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/97b6b1b7-1541-44c8-bd1b-79394463a149)
+
+
 d. width dan height <br>
 width dan height pada img digunakan untuk memberikan ukuran pada gambar tersebut
+![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/db4d7d69-aea4-441f-a141-a23965c33ad9)
+![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/fa9207c2-3a06-41c0-b384-8b3135486795)
+
 e. style <br>
 style digunakan jika ingin memberikan css di inline suatu tag
+![style backgrond color in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/8a25b18e-7612-4d79-8480-7a7abcd0319d)
+![style backgrond color out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/55c89bb5-51f1-464e-920f-1b9d56ae12ac)
+
+
 f. lang <br>
 lang digunakan untuk menentukan bahasa apa yang digunakan untuk isi elemen
-g. title <br>
-title berfungsi untuk memberikan informasi tambahan
+
 h. class <br>
 class berguna untuk memberikan class CSS yanng akan digunakan
+![class output](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/c49c9d84-f32e-49aa-9f4d-736f464428ad)
+![class ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/9c26089b-885e-4b9c-aac1-8f7e61453032)
+
+
+
 i. Id <br>
 Id berguna untuk memberikan id CSS yanng akan digunakan
+![id in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/5d7086bd-bf14-4eab-911c-e262![id out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/739bdc45-c63f-4658-951d-e58f8690c1f5)
+a80b6faf)
+![Uploading id out.png…]()
+
+
+
 7. **Formatting** <br>
 a. b <br>
    b digunakan untuk menjadikan teks tersebut menjadi bold
+![b out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/1eae4430-9c9c-42d1-b161-b17c4ebe9a2b)
+
+
+
+   
 c. i  <br>
    i adalah italic, yang digunakan untuk memberikan kemiringan pada teks
 d. mark  <br>
@@ -47,11 +74,11 @@ e. sub  <br>
    b digunakan untuk memberikan karakter kecil di bawah teks
 f. sup  <br>
 sup digunakan untuk memberikan karakter kecil di atas teks
-8. **Comments** <br>
+9. **Comments** <br>
 comments diberikan untuk mematika sebuah tag atau perinta, tetapi juga bisa diberikan untuk memberikan catatan di html tanpa muncul di halaman website
-9. **img** <br>
+10. **img** <br>
 img adalah sebuah tag yang digunakan untuk memberikan gambar ke dalam html
-10. **Table** <br>
+11. **Table** <br>
 table tersebut memiliki fungsi untuk memberikan tabel ke dalam html.
 beberapa yang terdapa dalam tabel :
 a. tr <br>
@@ -62,7 +89,7 @@ c. th <br>
 th digunakan untuk membuat header pada table
 d. border <br>
 border digunakan untuk memberikan garis pada tabel
-11. **List** <br>
+12. **List** <br>
 list digunakan untuk membuat list dalam html
 a. ol  <br>
 ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.
