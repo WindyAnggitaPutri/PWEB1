@@ -63,18 +63,33 @@ Id berguna untuk memberikan id CSS yanng akan digunakan
 a. b <br>
    b digunakan untuk menjadikan teks tersebut menjadi bold
 ![b out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/1eae4430-9c9c-42d1-b161-b17c4ebe9a2b)
+![b out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/a37352c4-68ea-40ac-a525-9b36603554de)
 
 
 
    
 c. i  <br>
    i adalah italic, yang digunakan untuk memberikan kemiringan pada teks
+![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/0dfcd124-fa78-4ae9-86f4-19a28cf25408)
+![i ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/9c004943-40bd-4819-a706-9533038c4ef8)
+
+
+   
 d. mark  <br>
    mark digunakan untuk menandakan suatu kalimat pada teks tersebut, atau sama seperti highlight
+   
 e. sub  <br>
    b digunakan untuk memberikan karakter kecil di bawah teks
+![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/d503e50d-2be9-420d-8929-576437313f9b)
+![suup sub out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/e6204982-00af-48d6-9059-d331fe94bff4)
+
+   
 f. sup  <br>
 sup digunakan untuk memberikan karakter kecil di atas teks
+![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/cad968fa-55cc-4524-b3d1-cdb16ae570d1)
+![suup sub out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/b0573fac-3745-4f52-a256-c959d7980466)
+
+
 9. **Comments** <br>
 comments diberikan untuk mematika sebuah tag atau perinta, tetapi juga bisa diberikan untuk memberikan catatan di html tanpa muncul di halaman website
 10. **img** <br>
