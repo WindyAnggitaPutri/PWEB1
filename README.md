@@ -29,31 +29,31 @@ Hyperlink adalah perintah untuk bisa meghubungkan halaman tersebut ke slide, fil
 ![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/5861c51a-a82c-4759-bb9b-d96f45738155)
 ![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/97b6b1b7-1541-44c8-bd1b-79394463a149)
 
-
-d. width dan height <br>
-width dan height pada img digunakan untuk memberikan ukuran pada gambar tersebut
+      
+      d. width dan height <br>
+      width dan height pada img digunakan untuk memberikan ukuran pada gambar tersebut
 ![alt src width height in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/db4d7d69-aea4-441f-a141-a23965c33ad9)
 ![alt src width height out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/fa9207c2-3a06-41c0-b384-8b3135486795)
 
-e. style <br>
-style digunakan jika ingin memberikan css di inline suatu tag
+      e. style <br>
+      style digunakan jika ingin memberikan css di inline suatu tag
 ![style backgrond color in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/8a25b18e-7612-4d79-8480-7a7abcd0319d)
 ![style backgrond color out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/55c89bb5-51f1-464e-920f-1b9d56ae12ac)
 
 
-f. lang <br>
-lang digunakan untuk menentukan bahasa apa yang digunakan untuk isi elemen
+      f. lang <br>
+      lang digunakan untuk menentukan bahasa apa yang digunakan untuk isi elemen
 ![lang](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/781098a4-c5a2-461b-9e86-57da864e25de)
 
-h. class <br>
-class berguna untuk memberikan class CSS yanng akan digunakan
+      h. class <br>
+      class berguna untuk memberikan class CSS yanng akan digunakan
 ![class output](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/c49c9d84-f32e-49aa-9f4d-736f464428ad)
 ![class ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/9c26089b-885e-4b9c-aac1-8f7e61453032)
 
 
 
-i. Id <br>
-Id berguna untuk memberikan id CSS yanng akan digunakan
+      i. Id <br>
+      Id berguna untuk memberikan id CSS yanng akan digunakan
 ![id in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/cd00d25a-dbdd-46d9-96d5-855a22c67198)
 ![id out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/b8bbbb70-5262-41fe-84e2-41d73ed61c9a)
 
@@ -61,16 +61,16 @@ Id berguna untuk memberikan id CSS yanng akan digunakan
 
 
 7. **Formatting** <br>
-a. b <br>
-   b digunakan untuk menjadikan teks tersebut menjadi bold
+   a. b <br>
+      b digunakan untuk menjadikan teks tersebut menjadi bold
 ![b out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/1eae4430-9c9c-42d1-b161-b17c4ebe9a2b)
 ![b out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/a37352c4-68ea-40ac-a525-9b36603554de)
 
 
 
    
-c. i  <br>
-   i adalah italic, yang digunakan untuk memberikan kemiringan pada teks
+   b. i  <br>
+      i adalah italic, yang digunakan untuk memberikan kemiringan pada teks
 ![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/0dfcd124-fa78-4ae9-86f4-19a28cf25408)
 ![i ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/9c004943-40bd-4819-a706-9533038c4ef8)
 
@@ -78,14 +78,14 @@ c. i  <br>
    
 
    
-e. sub  <br>
+   e. sub  <br>
    b digunakan untuk memberikan karakter kecil di bawah teks
 ![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/d503e50d-2be9-420d-8929-576437313f9b)
 ![suup sub out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/e6204982-00af-48d6-9059-d331fe94bff4)
 
    
-f. sup  <br>
-sup digunakan untuk memberikan karakter kecil di atas teks
+   f. sup  <br>
+   sup digunakan untuk memberikan karakter kecil di atas teks
 ![i sup sub in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/cad968fa-55cc-4524-b3d1-cdb16ae570d1)
 ![suup sub out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/b0573fac-3745-4f52-a256-c959d7980466)
 
@@ -106,17 +106,17 @@ img adalah sebuah tag yang digunakan untuk memberikan gambar ke dalam html
 
 ![tab ou](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/12a3d5dd-ec38-488b-bbbe-1e4f14fbeefb)
 
-
-table tersebut memiliki fungsi untuk memberikan tabel ke dalam html.
-beberapa yang terdapa dalam tabel :<br>
-a. tr <br>
-tr digunakan untuk membuat baris pada tabel<br>
-b. td <br>
-td digunakan untuk membuat kolom pada baris<br>
-c. th <br>
-th digunakan untuk membuat header pada table<br>
-d. border <br>
-border digunakan untuk memberikan garis pada tabel<br>
+      
+      table tersebut memiliki fungsi untuk memberikan tabel ke dalam html.
+      beberapa yang terdapa dalam tabel :<br>
+      a. tr <br>
+      tr digunakan untuk membuat baris pada tabel<br>
+      b. td <br>
+      td digunakan untuk membuat kolom pada baris<br>
+      c. th <br>
+      th digunakan untuk membuat header pada table<br>
+      d. border <br>
+      border digunakan untuk memberikan garis pada tabel<br>
 
 
 14. **List** <br>
@@ -125,12 +125,12 @@ border digunakan untuk memberikan garis pada tabel<br>
 
 
 list digunakan untuk membuat list dalam html<br>
-a. ol  <br>
-ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.<br>
-b. ul  <br>
-    atau unordered list adalah jenis list yang tidak memiliki urutan.<br>
-c. li  <br>
-li adalah tag untuk menampilkan istilah pada list tersebut<br>
+   a. ol  <br>
+   ol atau ordered list adalah jenis list yang memiliki urutan dengan menggunakan angka atau huruf.<br>
+   b. ul  <br>
+       atau unordered list adalah jenis list yang tidak memiliki urutan.<br>
+   c. li  <br>
+   li adalah tag untuk menampilkan istilah pada list tersebut<br>
 
 ## CSS (Cascading Style Sheets) <hr>
 1. **Introduction** <br>
@@ -150,28 +150,28 @@ Style Eksternal adalah css yang terpisah dengan html. Perlu digunaknnya link hre
 ![eks](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/2c42ff2e-f345-426a-ab3e-626312199e31)
 
 3. **Selector** <br>
-a. tag html <br>
-selector tag adalah selector yang menggunakan tag pada html, seperti h1, h1, p, body dan lainnya.
+   a. tag html <br>
+   selector tag adalah selector yang menggunakan tag pada html, seperti h1, h1, p, body dan lainnya.
 ![tag](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/6144be02-2390-4ccf-839f-9060143b52f0)
 
-b. class <br>
-selector class adalah jenis selector yang menggunakan nama class pada tag html. Penulisan class pada css ini yaitu menggunakan ".", contohnya .satu, .gambar, .demo dan lain sebagainya
+   b. class <br>
+   selector class adalah jenis selector yang menggunakan nama class pada tag html. Penulisan class pada css ini yaitu menggunakan ".", contohnya .satu, .gambar, .demo dan lain sebagainya
 ![cal](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/048909c0-7609-4a5c-8b51-88344be4a28d)
 
-c. id <br>
-selector id adalah jenis selector yang menggunakan nama id pada tag html. Penulisan id pada css ini yaitu menggunakan "#", contohnya #satu, #gambar, #demo dan lain sebagainya.
+   c. id <br>
+   selector id adalah jenis selector yang menggunakan nama id pada tag html. Penulisan id pada css ini yaitu menggunakan "#", contohnya #satu, #gambar, #demo dan lain sebagainya.
 ![id](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/3764fc80-33b6-4718-a5ec-ea28cfe41375)
 
 5. **Selector, Property, Value** <br>
 ![css](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/8d8f9a11-f1f5-4e89-972a-adad99b63636)
 
-Dalam penulisan CSS memiliki format sepeti seletor {property : value; }
-a. color <br>
-b. background-color  <br>
-c. background-image <br>
-d. margin  <br>
-e. border  <br>
-f. font-family <br>
+   Dalam penulisan CSS memiliki format sepeti seletor {property : value; }
+   a. color <br>
+   b. background-color  <br>
+   c. background-image <br>
+   d. margin  <br>
+   e. border  <br>
+   f. font-family <br>
 
 ## JS(JAVASCRIPT) <br><hr>
 1. **introduction** <br>
@@ -182,13 +182,13 @@ JavaScript adalah bahasa pemrograman yang digunakan untuk pengembangan website a
 
 
 4. **Artithmatic** <br>
-Operator aritmatika berfungsi melakukan perhitungan aritmatika pada angka
+   Operator aritmatika berfungsi melakukan perhitungan aritmatika pada angka
 ![arit in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/26047985-91cc-413d-a0e4-c9c2d4f4b561)
 ![arit out](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/f0eed7f0-0392-4853-a243-0d3be5291c17)
 
 
 6. **Function** <br>
-Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain.
+   Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain.
 Fungsi di dalam Javascript adalah sebuah objek. Karena memiliki properti dan juga method.
 ![fun in](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/2061449d-97e4-4322-b9c0-17eae796a3f1)
 
@@ -196,7 +196,7 @@ Fungsi di dalam Javascript adalah sebuah objek. Karena memiliki properti dan jug
 
 
 8. **Array** <br>
-Struktur data merupakan cara-cara atau metode yang digunakan untuk menyimpan data di dalam memori komputer.
+   Struktur data merupakan cara-cara atau metode yang digunakan untuk menyimpan data di dalam memori komputer.
 Salah satu struktur data yang sering digunakan dalam pemrograman adalah Array.
 Array merupakan struktur data yang digunakan untuk menyimpan sekumpulan data dalam satu tempat. Setiap data dalam Array memiliki indeks, sehingga kita akan mudah memprosesnya. Indeks array selalu dimulai dari angka nol (0).
 ![array](https://github.com/WindyAnggitaPutri/PWEB1/assets/168071401/01550a40-2e2d-45a8-9991-cbd18c9fd05e)
