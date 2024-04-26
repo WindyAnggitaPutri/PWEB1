@@ -107,15 +107,15 @@ img adalah sebuah tag yang digunakan untuk memberikan gambar ke dalam html
 
 
 table tersebut memiliki fungsi untuk memberikan tabel ke dalam html.
-beberapa yang terdapa dalam tabel :
+beberapa yang terdapa dalam tabel :<br>
 a. tr <br>
-tr digunakan untuk membuat baris pada tabel
+tr digunakan untuk membuat baris pada tabel<br>
 b. td <br>
-td digunakan untuk membuat kolom pada baris
+td digunakan untuk membuat kolom pada baris<br>
 c. th <br>
-th digunakan untuk membuat header pada table
+th digunakan untuk membuat header pada table<br>
 d. border <br>
-border digunakan untuk memberikan garis pada tabel
+border digunakan untuk memberikan garis pada tabel<br>
 14. **List** <br>
 list digunakan untuk membuat list dalam html
 a. ol  <br>
