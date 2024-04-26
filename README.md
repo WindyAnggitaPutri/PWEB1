@@ -75,8 +75,7 @@ c. i  <br>
 
 
    
-d. mark  <br>
-   mark digunakan untuk menandakan suatu kalimat pada teks tersebut, atau sama seperti highlight
+
    
 e. sub  <br>
    b digunakan untuk memberikan karakter kecil di bawah teks
