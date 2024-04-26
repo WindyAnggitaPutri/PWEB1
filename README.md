@@ -1,4 +1,6 @@
-#HMTL(Hyper Text Markup Language)<hr>
+# Praktikum Pemrograman WEB
+
+# HTML(Hyper Text Markup Language)<hr>
 1. Introduction <br>
 HTML adalah salah satu bahasa yang di gunakan untuk membuat halaman website atau aplikasi. HTML diciptakan oleh Tim Barners-Lee. HTML pertama kali dirilis pada tahun tahun 1991.<br>
 HTML adalah bahasa yang selalu ada tag dan attribute. tag pertama yang diketikkan yaitu tag <!DOCTYPE html><html></html> untuk pembuka suatu dokumen html. Lalu dilanjutkan <,header></header>, <body></body>.
